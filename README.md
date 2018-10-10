@@ -2,7 +2,7 @@
 
 This is a replication of 
 
-James Hansen, Makiko Sato, Reto Ruedy (2012): **[Perception of Climate Change](http://www.pnas.org/content/109/37/E2415)**. Proceedings of the National Academy of Sciences, 109(37) E2415-E2423; DOI: [10.1073/pnas.1205276109](https://doi.org/10.1073/pnas.1205276109)
+James Hansen, Makiko Sato, Reto Ruedy (2012): [Perception of Climate Change](http://www.pnas.org/content/109/37/E2415). Proceedings of the National Academy of Sciences, 109(37) E2415-E2423; DOI: [10.1073/pnas.1205276109](https://doi.org/10.1073/pnas.1205276109)
 
 and 
 
