@@ -1,4 +1,4 @@
-# The climate dice are loaded.
+# The climate dice are loaded
 
 This is a replication of 
 
